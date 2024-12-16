@@ -1,0 +1,6 @@
+{
+  "project_slug": "aoc-20xx.12.xx",
+  "script_name": "{{cookiecutter.project_slug}}",
+  "project_description": "Advent of Code 20xx, Day x",
+  "_copy_without_render": ["*.yaml"]
+}
